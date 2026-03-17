@@ -1,0 +1,1 @@
+Jest to program służący do prostych obliczeń matematycznych.
