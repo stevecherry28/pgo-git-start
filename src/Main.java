@@ -48,6 +48,10 @@ public class Main {
         }
         }
 
+        static void message {
+        System.out.println("Dziękujemy za skorzystanie z kalkulatora!");
+    }
+
     public static void main(String[] args) {
         welcomeAndChoose();
 input();
